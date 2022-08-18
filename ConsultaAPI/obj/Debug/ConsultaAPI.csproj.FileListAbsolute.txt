@@ -1,0 +1,14 @@
+C:\Users\carlos junior\source\repos\ConsultaAPI\ConsultaAPI\bin\Debug\ConsultaAPI.exe.config
+C:\Users\carlos junior\source\repos\ConsultaAPI\ConsultaAPI\bin\Debug\ConsultaAPI.exe
+C:\Users\carlos junior\source\repos\ConsultaAPI\ConsultaAPI\bin\Debug\ConsultaAPI.pdb
+C:\Users\carlos junior\source\repos\ConsultaAPI\ConsultaAPI\bin\Debug\Correios.dll
+C:\Users\carlos junior\source\repos\ConsultaAPI\ConsultaAPI\bin\Debug\Correios.pdb
+C:\Users\carlos junior\source\repos\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.csproj.AssemblyReference.cache
+C:\Users\carlos junior\source\repos\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlos junior\source\repos\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.FrmMain.resources
+C:\Users\carlos junior\source\repos\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.Properties.Resources.resources
+C:\Users\carlos junior\source\repos\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.csproj.GenerateResource.cache
+C:\Users\carlos junior\source\repos\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.csproj.CoreCompileInputs.cache
+C:\Users\carlos junior\source\repos\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.csproj.CopyComplete
+C:\Users\carlos junior\source\repos\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.exe
+C:\Users\carlos junior\source\repos\ConsultaAPI\ConsultaAPI\obj\Debug\ConsultaAPI.pdb
